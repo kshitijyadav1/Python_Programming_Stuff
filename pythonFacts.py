@@ -55,4 +55,9 @@ print('\n'*2)
 import antigravity
 print("Explore the antigravity")
 
-# python future artifact
+# list all keyword
+import keyword
+print(keyword.kwlist)
+
+# list all python modules
+print(help("modules"))
