@@ -59,5 +59,5 @@ print("Explore the antigravity")
 import keyword
 print(keyword.kwlist)
 
-# list all python modules
+# list all python modulese
 print(help("modules"))
