@@ -1,5 +1,7 @@
 #! python3
-# list method
+""" Docstring: ListMania handle the list method by the text user interface. """
+# check docstring by type the command:- import listMania
+# listMania.__doc__
 lst = []
 def insert(key, data):
 	lst.insert(key, data)
