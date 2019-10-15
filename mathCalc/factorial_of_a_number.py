@@ -16,4 +16,4 @@ def factorial(num):
 	
 print("Number: ", number)
 print("Factorial: ", factorial(number))
-	
+# factorial number
