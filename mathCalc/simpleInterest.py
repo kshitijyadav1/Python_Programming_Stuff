@@ -1,7 +1,6 @@
 #! python3
 import sys
 # Simple interest  = (Principal * rate * time) / 100
-# _________________
 principal, rate, time = 0, 0, 0
 try:
 	principal = float(sys.argv[1])

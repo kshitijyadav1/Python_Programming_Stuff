@@ -1,5 +1,4 @@
 #! python3
-# _______________
 import sys
 number = 0
 try:
