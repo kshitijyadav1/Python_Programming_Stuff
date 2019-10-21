@@ -1,10 +1,10 @@
 #! python3
-import sys
-number = 0
+import sysnumber = 0
 
 
 # split number and append it into the list.	
-def splitNumber(lst, num):	while(num > 0):
+def splitNumber(lst, num):
+	while(num > 0):
 		remainder = num % 10
 		num = num // 10
 		lst.append(remainder)

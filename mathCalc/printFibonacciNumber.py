@@ -22,4 +22,3 @@ except:
 		return second
 	
 print(fiboNumber(number))
-			
